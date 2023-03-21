@@ -1,5 +1,5 @@
 # Телеком — Определение неэффективных операторов
-[Ссылка на Дашборд](https://public.tableau.com/views/4_16769967167430/_?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Ссылка на Дашборд](https://public.tableau.com/views/final_progect_16787889786880/2?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 Описание проекта
 Телеком провайдер «Нупозвони» хочет помочь своим клиентам (колл-центрам) найти неэффективных операторов и предложить новый сервис для регулярного мониторинга.
