@@ -22,7 +22,7 @@
 
 
 ### Исследование причин убытков развлекательного приложения Procrastinate Pro+
-[Анализ убытков приложения ProcrastinatePRO+](https://github.com/Ekaterina-135/Project-Yandex-Practicum/tree/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%20%D1%83%D0%B1%D1%8B%D1%82%D0%BA%D0%BE%D0%B2%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20Procrastinate%20Pro%2B)
+[Анализ убытков приложения ProcrastinatePRO+](https://github.com/Ekaterina-135/Project-Yandex-Practicum/blob/eec018c661609fab0e28d1967c2c80e1c9f085f7/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%20%D1%83%D0%B1%D1%8B%D1%82%D0%BA%D0%BE%D0%B2%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20Procrastinate%20Pro+/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D1%8B%20%D0%BF%D0%BB%D0%BE%D1%85%D0%BE%D0%B9%20%D0%BE%D0%BA%D1%83%D0%BF%D0%B0%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20Procrastinate%20Pro+..ipynb)
 
 `интернет-сервисы` `стартапы`
 
