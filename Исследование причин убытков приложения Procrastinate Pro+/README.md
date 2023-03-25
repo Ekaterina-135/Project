@@ -33,3 +33,5 @@
 
 Python, Pandas, Matplotlib, Seaborn, NumPy,
 Когортный анализ, продуктовые метрики (LTV, ROI, Retention Rate, Conversion Rate), момент и горизонт анализа, визуализация данных.
+
+Статус Завершен
